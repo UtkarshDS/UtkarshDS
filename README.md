@@ -1,16 +1,18 @@
-### Hi there 👋
+### Hello there 👋
 
-<!--
-**UtkarshDS/UtkarshDS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my profile where I hope to get you a glimpse of my aspirations, ideas and projects.
 
-Here are some ideas to get you started:
+_So here goes nothing..._
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on getting my second Bachelor's degree. It is a BS Degree in Data Science and Applications from IIT Madras
+- 🌱 I’m currently learning Web Development in MEAN Stack and Data Science
+- 👯 I’m looking to collaborate on NLP-related projects
+- 🤔 I’m looking for help with Cloud Technologies
+- 💬 Ask me about Python and Java
+- 📫 How to reach me:
+- LinkedIn:
+-     https://www.linkedin.com/in/yuuhi/
+- Gmail:
+-     utkarshsaraswat99@gmail.com
+- 😄 Pronouns: They/Them
+- ⚡ Fun fact: National Gold winner in Latin Dances for Cha Cha, Rumba, Jive and Samba
